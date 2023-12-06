@@ -3,7 +3,7 @@
     <title>Henrique Blog</title>
     <link href="https://henriiquecampos.github.io/feed.xml" rel="self" />
     <link href="https://henriiquecampos.github.io" />
-    <updated>2023-12-05T23:01:32-03:00</updated>
+    <updated>2023-12-05T23:19:50-03:00</updated>
     <author>
         <name>Henrique Campos</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://henriiquecampos.github.io/maturidade-e-disciplina.html"/>
         <id>https://henriiquecampos.github.io/maturidade-e-disciplina.html</id>
+            <category term="Auto Aprimoramento"/>
 
-        <updated>2023-12-05T23:01:32-03:00</updated>
+        <updated>2023-12-05T23:19:50-03:00</updated>
             <summary>
                 <![CDATA[
                     A forma mais elevada de maturidade é a disciplina. Maturidade vem de antecipar o seu futuro eu enquanto se mantém&hellip;
