@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Henrique Blog",
+    "description": "",
+    "home_page_url": "https://henriiquecampos.github.io",
+    "feed_url": "https://henriiquecampos.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Henrique Campos"
+    },
+    "items": [
+        {
+            "id": "https://henriiquecampos.github.io/maturidade-e-disciplina.html",
+            "url": "https://henriiquecampos.github.io/maturidade-e-disciplina.html",
+            "title": "Maturidade e Disciplina",
+            "summary": "A forma mais elevada de maturidade é a disciplina. Maturidade vem de antecipar o seu futuro eu enquanto se mantém&hellip;",
+            "content_html": "<p>A forma mais elevada de maturidade é a disciplina.</p>\n<p>Maturidade vem de antecipar o seu futuro eu enquanto se mantém consciente do seu eu atual.</p>\n<p>Um bom exemplo sobre isso foi quando, após um longo dia de trabalho, por volta das 12:50AM eu me peguei decidindo se lavaria ou não as louças após eu comer.</p>\n<p>O que veio na minha mente foi:</p>\n<blockquote>\n<p>Eu to muito cansado, mas o Henrique de amanhã defitivamente vai estar mais cansado. Eu vou lavar essa louça aqui pra ele. Ele vai me agradecer.</p>\n</blockquote>\n<p>Eu lavei a louça e fui para a cama.</p>\n<p>No dia seguinte, eu acordei cansado pra caralho. Eu fui à cozinha muito indignado porque na minha cabeça eu sabia que iria ter que lavar a louça antes de tomar café da manhã.</p>\n<p>Porém quando eu vi tudo limpo, incluindo o chão da cozinha, apenas esperando pra que eu pudesse usar as louças e utensílios ali. Eu não tive outra reação se não pensar comigo:</p>\n<blockquote>\n<p>Muito obrigado Henrique do passado, você é incrível</p>\n</blockquote>\n<p>Levando isso em consideração, eu acredito que disciplina é a forma mais definitiva de amor próprio.</p>\n<p>A habilidade de planejar o melhor para o seu futuro e seguir com o plano sabendo que ele lhe fará bem, abrindo mão de prazeres momentâneos no presente para que você possa dar as melhores recompensas para o seu futuro eu. Isso é cuidado, é amor consigo.</p>\n<p>Isso cria confiança, autoconfiança e até auto perdão. Olhar para trás sabendo que o seu eu passado em algum momento com a mente limpa sentou e investiu tempo em planejar o que seria melhor para o seu futuro eu.</p>\n<p>Não tem nenhuma maneira de você se odiar sabendo que você está constantemente pensando no seu bem estar futuro. Sabendo que tem alguém cuidando de você e esse alguém é você mesmo. Quando você se torna essa pessoa no presente, você pode desfrutar do amor que você enviou do passado para si mesmo no futuro. É como se você estivesse agindo como seu próprio pai e seu próprio filho.</p>",
+            "author": {
+                "name": "Henrique Campos"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-05T23:01:32-03:00",
+            "date_modified": "2023-12-05T23:01:32-03:00"
+        }
+    ]
+}
