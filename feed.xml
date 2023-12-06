@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Henrique Blog</title>
+    <title>Henrique&#x27;s Blog</title>
     <link href="https://henriiquecampos.github.io/feed.xml" rel="self" />
     <link href="https://henriiquecampos.github.io" />
     <updated>2023-12-05T23:19:50-03:00</updated>
