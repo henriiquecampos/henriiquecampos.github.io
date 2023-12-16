@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Henrique Campos</title>
+    <title>Blog</title>
     <link href="https://henriiquecampos.github.io/feed.xml" rel="self" />
     <link href="https://henriiquecampos.github.io" />
-    <updated>2023-12-05T23:19:50-03:00</updated>
+    <updated>2023-12-16T17:44:21-03:00</updated>
     <author>
         <name>Henrique Campos</name>
     </author>
     <id>https://henriiquecampos.github.io</id>
 
+    <entry>
+        <title>Confiança e Identidade</title>
+        <author>
+            <name>Henrique Campos</name>
+        </author>
+        <link href="https://henriiquecampos.github.io/condianca-e-identidade.html"/>
+        <id>https://henriiquecampos.github.io/condianca-e-identidade.html</id>
+            <category term="Desenvolvimento Pessoal"/>
+
+        <updated>2023-12-16T17:44:21-03:00</updated>
+            <summary>
+                <![CDATA[
+                    O que constrói nossa identidade é o que nós fazemos e o que nós gostamos. Toda nossa vida nós estivemos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>O que constrói nossa identidade é o que nós fazemos e o que nós gostamos.</p>
+<p>Toda nossa vida nós estivemos fazendo coisas e, idealmente, gostando de fazer elas.</p>
+<p>Essas coisas que nós não só fazemos mas gostamos são o que nos fazem quem nós somos. Fazer essas coisas reafirma quem somos e essa reafirmação onstrói nossa confiança em quem somos.</p>
+<p>É razoável fazer as coisas que te levaram a ser quem você é e se sentir inseguro? Você fez já vem fazendo essas coisas, provando que consegue fazê-las, Não há o que temer. Mesmo se você falhar, você falhou sendo você. Afinal, foram essas coisas que construiram quem você é.</p>
+<p>Quando se sentir inseguro, aumente suas apostas em tudo que faz você ser quem você é. Quando não tiver confiança em si, lembre-se do que te fez ser quem você é e invista tudo nisso.</p>
+<p>Mesmo quando você tiver tentando algo novo, lembre-se de tentar investindo no que faz sentido pra você e pro que você é. Assim, você sempre terá confiança em agir, pois na pior das hipóteses, toda vez que você falhar, na realidade está se tornando uma versão ainda melhor de si mesmo.</p>
+<p>Da mesma forma, se quiser se sentir confiante sobre algo que você ainda não dominou, pratique aquilo até que se torne parte de quem você é. Assim, agindo como quem é, autenticamente, terá integrado tal aspecto na sua identidade e poderá exercê-lo confiantemente.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Maturidade e Disciplina</title>
         <author>
