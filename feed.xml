@@ -3,12 +3,46 @@
     <title>Meditações e Ruminações</title>
     <link href="https://henriiquecampos.github.io/feed.xml" rel="self" />
     <link href="https://henriiquecampos.github.io" />
-    <updated>2024-02-02T13:27:05-03:00</updated>
+    <updated>2024-02-15T09:30:24-03:00</updated>
     <author>
         <name>Henrique Campos</name>
     </author>
     <id>https://henriiquecampos.github.io</id>
 
+    <entry>
+        <title>Emoções e Cores</title>
+        <author>
+            <name>Henrique Campos</name>
+        </author>
+        <link href="https://henriiquecampos.github.io/emocoes-e-cores.html"/>
+        <id>https://henriiquecampos.github.io/emocoes-e-cores.html</id>
+            <category term="Psicologia"/>
+            <category term="Desenvolvimento Pessoal"/>
+
+        <updated>2024-02-15T09:30:24-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Existem pesquisas no campo da linguística que estudam como diversas culturas nomeiam cores diferentemente. Na maioria das sociedades mais primitivas&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Existem pesquisas no campo da linguística que estudam como diversas culturas nomeiam cores diferentemente. Na maioria das sociedades mais primitivas é comum ter apenas três cores fundamentais: preto, branco e vermelho.</p>
+<p>Algumas teorias afirmam que isso se deve ao fato de que essas sociedades carecem de experiência e de necessidade de comunicar mais do que isso. Eles podem meramente dizer:</p>
+<blockquote>
+<p>Tem comida depois do lago <strong>preto</strong>. Atravesse a terra <strong>vermelha</strong> e espere na pedra <strong>branca</strong>.</p>
+</blockquote>
+<p>E com isso eles já conseguiriam comunicar o suficiente para alcançar o objetivo de realizar uma caça e dividir a carne <strong>vermelha</strong> entre eles. A comunicação facilmente alcança os resultados desejados porque os resultados possuem pouca complexidade. Então seus companheiros conseguem compreender facilmente o que estão tentando comunicar, o objetivo, e o resultado esperado.</p>
+<p>Porém todo um espectro de cores é deixado de fora dessa comunicação que pode acabar sendo muito imprecisa. Por exemplo, como comunicar que a planta azul é comestível e a roxa não é se ambas seriam chamadas de planta <strong>preta</strong>?</p>
+<p>Da mesma forma, nós estamos acostumados a comunicar apenas uma variedade pequena de sentimentos, por falta de experiência ou necessidade. Na minha experiência pessoal, eu estava acostumado a apenas abstrair minhas emoções em <strong>raiva</strong> e <strong>alegria</strong>. Era um pensamento muito <strong>preto</strong> e <strong>branco</strong>.</p>
+<p>Então sempre que eu não estava me sentindo com raiva eu achava que estava alegre e vice-versa. Quando eu estava com <strong>medo</strong>, eu me comportava como se eu estivesse com raiva. Quando eu sentia <strong>atração</strong> por alguém eu imediatamente sentia que a pessoa fazia eu me sentir alegre.</p>
+<p>Ao interagir mais com outras pessoas, inclusive de outras culturas, e ver essas pessoas realmente aferindo suas experiências com outras emoções e sentimentos, eu fui capaz de melhorar meu <strong>repertório emocional</strong>.</p>
+<p>Em contra partida, isso me permitiu aumentar meu <strong>repertório comportamental</strong> já que agora eu poderia desenvolver e apresentar melhores estratégias para cada sentimento percebido.</p>
+<p>Isso é importante pois ao utilizar uma estratégia de raiva quando você está se sentindo com medo irá levar você para as consequências esperadas de uma estratégia de raiva, <strong>afastando as pessoas</strong> de você. Sendo que quando nos sentimos com medo e inseguros nós precisamos de <strong>reafirmação</strong>, e essa por sua vez demanda <strong>proximidade</strong>.</p>
+<p>Muito do que se trata a <strong>inteligência emocional</strong> tem a ver com identificar as suas e as emoções de outras pessoas e aplicar a estratégia comportamental adequada para alcançar o resultado desejado daquela interação.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Máquina de Violência</title>
         <author>
@@ -328,30 +362,6 @@
 <p>O segredo para abraçar a morte é ter um propósito que não te faça gastar seus dias procurando orgamos de 10 ou 20 segundos. Algo que transcenda a morte. Algo que mesmo com a eternidade a sua disposição, você não alcançaria. Só assim cada dia se torna uma eternidade em si mesmo.</p>
 <p>Se a eternidade for uma repetição infinita do seu último dia vivo, você viveria o paraíso ou o inferno?</p>
 <p>Acorde todo dia e se pergunte: eu morreria pelo que estou prestes a fazer hoje? Morreria por esse dia? E então viva cada dia como seu último. Isso não é um convite para indulgência em prazeres e paixões, mas sim um chamado para seu propósito. Dia após dia, caminhe em direção à ele e esteja disposto a morrer nele e por ele.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Game Thinking</title>
-        <author>
-            <name>Henrique Campos</name>
-        </author>
-        <link href="https://henriiquecampos.github.io/game-thinking.html"/>
-        <id>https://henriiquecampos.github.io/game-thinking.html</id>
-            <category term="Design de Jogos"/>
-            <category term="Desenvolvimento Pessoal"/>
-
-        <updated>2023-12-18T08:54:21-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Game Thinking, ou pensamento de jogo, é um conjunto de habilidades e conhecimento que permite que pessoas abstraiam aspectos de&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><em>Game Thinking</em>, ou pensamento de jogo, é um conjunto de habilidades e conhecimento que permite que pessoas abstraiam aspectos de suas vidas na forma de jogos. Jogos, nesse sentido, são <strong>sistemas de incentivos</strong>.</p>
-<p>Ao compreender, identificar ou criar um objetivo, a pessoa pode projetar e analisar os incentivos que <strong>os aproximam ou os afastam do objetivo</strong> do sistema.</p>
-<p>Usando <em>Game Thinking</em> nos podemos gamificar a maior parte das nossas vidas e criar os incentivos corretos para alcançarmos nossos objetivos.</p>
             ]]>
         </content>
     </entry>
