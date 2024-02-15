@@ -3,23 +3,24 @@
     <title>Meditações e Ruminações</title>
     <link href="https://henriiquecampos.github.io/feed.xml" rel="self" />
     <link href="https://henriiquecampos.github.io" />
-    <updated>2024-02-15T09:30:24-03:00</updated>
+    <updated>2024-02-15T09:34:28-03:00</updated>
     <author>
         <name>Henrique Campos</name>
     </author>
     <id>https://henriiquecampos.github.io</id>
 
     <entry>
-        <title>Emoções e Cores</title>
+        <title>Cores e Emoções</title>
         <author>
             <name>Henrique Campos</name>
         </author>
         <link href="https://henriiquecampos.github.io/emocoes-e-cores.html"/>
         <id>https://henriiquecampos.github.io/emocoes-e-cores.html</id>
             <category term="Psicologia"/>
+            <category term="Design"/>
             <category term="Desenvolvimento Pessoal"/>
 
-        <updated>2024-02-15T09:30:24-03:00</updated>
+        <updated>2024-02-15T09:34:28-03:00</updated>
             <summary>
                 <![CDATA[
                     Existem pesquisas no campo da linguística que estudam como diversas culturas nomeiam cores diferentemente. Na maioria das sociedades mais primitivas&hellip;
