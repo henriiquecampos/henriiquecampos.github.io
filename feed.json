@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://henriiquecampos.github.io/perdao.html",
+            "url": "https://henriiquecampos.github.io/perdao.html",
+            "title": "Perdão",
+            "summary": "Particularmente o perdão é uma das virtudes que tenho maior dificuldade em entender. Muitas pessoas dizem que ao perdoar nos&hellip;",
+            "content_html": "<p>Particularmente o perdão é uma das <strong>virtudes</strong> que tenho maior dificuldade em entender. Muitas pessoas dizem que ao perdoar nos livramos de um suposto peso que carregamos quando desenvolvemos <strong>ressentimento</strong> por alguém e se livrar desse peso permite que sigamos em frente mais \"leves\". Outra palavra que nunca entendi o real significado.</p>\n<p>Eu costumo meramente remover a pessoa da minha vida e seguir com ela desconsiderando a pessoa no meu processo de tomada de decisões. Mas foi só quando entendi o processo da <strong>Graça</strong>, <strong>Justificação</strong> e <strong>Santificação</strong> do espírito que realmente entendi o que é o perdão.</p>\n<p>Ainda não desenvolvi essa virtude plenamente em mim, mas acredito que esta seja a capacidade de reinterpretar uma memória de forma a romper com a ideia da repetição de um padrão.</p>\n<p>É dar-se o luxo de <strong>estar errado</strong> e permitir a possibilidade de que não haverá repetição da situação que gerou o ressentimento. É estar aberto a se surpreender com novos desfechos. É desejar ter se equivocado sobre alguém.</p>\n<p>Assim como Deus nos perdoa, mesmo sabendo que iremos pecar e errar novamente. A ideia não é estar certo ou \"prever\" o caráter ou comportamento de alguém. É entender que pessoas cometem erros e dar-les a chance de mudar, mesmo que não mudem.</p>\n<p>Porém, ser um <strong>usuário radical</strong> de intuição introvertida, cuja principal característica é extrapolar os fatos e reduzí-los a um padrão geral de repetição, dificulta o processo do perdão já que a identificação e prospecção de padrões e repetições é natural e inevitável pra mim, pelo menos em um primeiro momento de observação.</p>\n<p>Talvez seja necessário mais contato com usuários de intuição extrovertida, que prospectam novas possibilidades e conseguem facilmente vislumbrar desfechos inétidos.</p>\n<p>Acredito que faz parte do desenvolvimento natural do fruto do <strong>Espírito</strong> a ideia de perdão, já que nosso modelo, Jesus, veio exatamente com a missão de perdoar a todos os pecadores. Mas ainda assim, e talvez exatamente por ter sido a principal missão do ministério de Cristo, seja tão difícil perdoar de verdade.</p>",
+            "author": {
+                "name": "Henrique Campos"
+            },
+            "tags": [
+                   "Relacionamentos",
+                   "Cristianismo"
+            ],
+            "date_published": "2024-02-20T22:00:00-03:00",
+            "date_modified": "2024-02-20T22:00:00-03:00"
+        },
+        {
             "id": "https://henriiquecampos.github.io/emocoes-e-cores.html",
             "url": "https://henriiquecampos.github.io/emocoes-e-cores.html",
             "title": "Cores e Emoções",
@@ -163,22 +179,6 @@
             ],
             "date_published": "2023-12-18T10:16:47-03:00",
             "date_modified": "2023-12-18T10:16:59-03:00"
-        },
-        {
-            "id": "https://henriiquecampos.github.io/memento-mori.html",
-            "url": "https://henriiquecampos.github.io/memento-mori.html",
-            "title": "Memento Mori",
-            "summary": "A morte é uma bénção. Se não pela morte, qual seria a urgência em agir? Se seus dias não cessassem,&hellip;",
-            "content_html": "<p>A morte é uma bénção. Se não pela morte, qual seria a urgência em agir? Se seus dias não cessassem, pelo o que você agiria? Você correria atrás dos seus sonhos? Teria algum?</p>\n<p>Em qualquer conjectura criativa que você imagine pra justificar seu desejo por mais tempo, por tempo infindo, fato é que não faria nada do que imagina. Você já adia seus sonhos e planos com apenas 80 ou 100 anos em mãos, por que não adiaria com 1000 ou 2000?</p>\n<p>O segredo para abraçar a morte é ter um propósito que não te faça gastar seus dias procurando orgamos de 10 ou 20 segundos. Algo que transcenda a morte. Algo que mesmo com a eternidade a sua disposição, você não alcançaria. Só assim cada dia se torna uma eternidade em si mesmo.</p>\n<p>Se a eternidade for uma repetição infinita do seu último dia vivo, você viveria o paraíso ou o inferno?</p>\n<p>Acorde todo dia e se pergunte: eu morreria pelo que estou prestes a fazer hoje? Morreria por esse dia? E então viva cada dia como seu último. Isso não é um convite para indulgência em prazeres e paixões, mas sim um chamado para seu propósito. Dia após dia, caminhe em direção à ele e esteja disposto a morrer nele e por ele.</p>",
-            "author": {
-                "name": "Henrique Campos"
-            },
-            "tags": [
-                   "Filosofia",
-                   "Desenvolvimento Pessoal"
-            ],
-            "date_published": "2023-12-18T09:46:29-03:00",
-            "date_modified": "2023-12-18T09:46:29-03:00"
         }
     ]
 }
