@@ -3,7 +3,7 @@
     <title>Meditações e Ruminações</title>
     <link href="https://henriiquecampos.github.io/feed.xml" rel="self" />
     <link href="https://henriiquecampos.github.io" />
-    <updated>2024-11-12T20:27:06-03:00</updated>
+    <updated>2024-11-12T20:30:32-03:00</updated>
     <author>
         <name>Henrique Campos</name>
     </author>
@@ -59,10 +59,11 @@
 <p>Nesse mecanismo, suportado por efeitos visuais e sonoros, mas também pela mecânica interna do jogo, o personagem X pode atirar três níveis de energia(podendo ser extedido para cinco com um aprimoramento disponível ao longo do jogo) pelo seu canhão. Cada nível defere uma quantidade diferente de dano proporcional a quantidade de tempo que o jogador manteve o botão de tiro pressionado.</p>
 <p>Ao soltar o botão de tiro, a rajada de energia será emitida, junto com seu respectivo efeito visual e sonoro. É importante notar que enquanto o botão de tiro está sendo pressionado, um efeito visual e sonoro é emitido e fica mais intenso e agudo conforme o tempo que o botão ficou pressionado chega próximo ao limite. Abaixo segue um vídeo curto demonstrando os cinco níveis disponíveis dessa mecânica em ordem de intensidade.</p>
 <figure class="post__video"><iframe loading="lazy" width="697" height="391" style="width: 697px; height: 391px;" src="https://www.youtube.com/embed/r4hDjkkHumM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Os efeitos visuais e sonoros ajudam a construir a tensão dessa mecânica que é liberada quando o jogador solta o botão de tiro, causando uma diminuição de tensão. Através desse mecanismo simples, o jogo inaugura uma alostase que se torna uma memória para o jogador repetí-la ao longo do jogo. Este modelo de micro aprendizado das mecanicas do jogo é conhecido como Skill Atoms e amplamente explorador pelo designer Daniel Cook em seu artigo The Chemestry of Game Design.</p>
+<p>Os efeitos visuais e sonoros ajudam a construir a tensão dessa mecânica que é liberada quando o jogador solta o botão de tiro, causando uma diminuição de tensão. Através desse mecanismo simples, o jogo inaugura uma alostase que se torna uma memória para o jogador repetí-la ao longo do jogo. Este modelo de micro aprendizado das mecanicas do jogo é conhecido como Skill Atoms e é amplamente explorado pelo designer Daniel Cook em seu artigo The Chemistry of Game Design.</p>
 <p>Mas um outro exemplo, agora muito menos sutil e muito mais complexo e elaborado, é o segmento do jogo Ori and the Blind Forest conhecido como Guinso Tree Water Escape, ou o escape de água da Guinso Tree(o primeiro mapa do jogo). Confira abaixo o segmento em questão.</p>
 <figure class="post__video"><iframe loading="lazy" width="696" height="390" style="width: 696px; height: 390px;" src="https://www.youtube.com/embed/DV96djbLi3M" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Ao longo deste segmento que encerra o primeiro arco do jogo, podemos ver claramente a tensão sendo criada em se compondo momento a momento até que em última análise, o jogador consegue escapar e há uma erupção da água de forma que beira uma analogia direta a uma ejaculação. Só de assistir conseguimos ter um pouco da sensação criada nessa obra de arte que culmina em uma grande liberação de prazer e uma sensação de satisfação como se todo o esforço desempenhado ao longo do segmento tivesse valido a pena nesse momento de completude.</p>
+<p>Ao longo deste segmento que encerra o primeiro arco do jogo, podemos ver claramente a tensão sendo criada e se compondo momento a momento até que o jogador consegue escapar e há uma erupção da água de forma que beira uma analogia a uma ejaculação.</p>
+<p>Só de assistir conseguimos sentir um pouco da sensação criada nessa obra de arte que culmina em uma grande liberação de prazer e uma sensação de satisfação como se todo o esforço desempenhado ao longo do segmento tivesse valido a pena nesse momento de completude.</p>
 <h1>A intensidade</h1>
 <p>É interessante analisar estes dois extremos onde temos uma aplicação simples e uma elaborada dessa técnica porque fica óbvio que uma disperta uma sensação de prazer proporcional a sensação de tensão que a antecedeu.</p>
 <p>Este é outro mecanismo interessante do cérebro. Se ele percebe que algo consegue trazê-lo de forma mais intensa para sua homeostase, ele libera mais prazer pra que essa alostase tenha prioridade quando o desconforto for maior. Nesse sentido, a sensação de prazer é proporcional a quantidade de tensão que ela reduz.</p>
