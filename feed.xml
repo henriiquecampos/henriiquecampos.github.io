@@ -3,7 +3,7 @@
     <title>Meditações e Ruminações</title>
     <link href="https://henriiquecampos.github.io/feed.xml" rel="self" />
     <link href="https://henriiquecampos.github.io" />
-    <updated>2024-11-12T20:18:45-03:00</updated>
+    <updated>2024-11-12T20:27:06-03:00</updated>
     <author>
         <name>Henrique Campos</name>
     </author>
@@ -58,7 +58,7 @@
 <p>O interessante dessa abordagem é que podemos utilizá-la momento a momento em todos os âmbitos do design de um jogo como se ela fosse um princípio a ser seguido ao invés de uma técnica de design. Podemos utilizá-la em várias intensidades e em qualquer aspecto que componha o jogo. Um exemplo simples que me vem a mente no momento é o X-Buster de Mega Man X.</p>
 <p>Nesse mecanismo, suportado por efeitos visuais e sonoros, mas também pela mecânica interna do jogo, o personagem X pode atirar três níveis de energia(podendo ser extedido para cinco com um aprimoramento disponível ao longo do jogo) pelo seu canhão. Cada nível defere uma quantidade diferente de dano proporcional a quantidade de tempo que o jogador manteve o botão de tiro pressionado.</p>
 <p>Ao soltar o botão de tiro, a rajada de energia será emitida, junto com seu respectivo efeito visual e sonoro. É importante notar que enquanto o botão de tiro está sendo pressionado, um efeito visual e sonoro é emitido e fica mais intenso e agudo conforme o tempo que o botão ficou pressionado chega próximo ao limite. Abaixo segue um vídeo curto demonstrando os cinco níveis disponíveis dessa mecânica em ordem de intensidade.</p>
-<div style="position: relative; width: 100%; height: 0px; padding-bottom: 56.250%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="100%" style="border: none; width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; overflow: hidden;" allow="fullscreen" allowfullscreen="allowfullscreen" src="https://streamable.com/e/ki1t2g?" data-mce-fragment="1"></iframe></div></div>
+<figure class="post__video"><iframe loading="lazy" width="697" height="391" style="width: 697px; height: 391px;" src="https://www.youtube.com/embed/r4hDjkkHumM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Os efeitos visuais e sonoros ajudam a construir a tensão dessa mecânica que é liberada quando o jogador solta o botão de tiro, causando uma diminuição de tensão. Através desse mecanismo simples, o jogo inaugura uma alostase que se torna uma memória para o jogador repetí-la ao longo do jogo. Este modelo de micro aprendizado das mecanicas do jogo é conhecido como Skill Atoms e amplamente explorador pelo designer Daniel Cook em seu artigo The Chemestry of Game Design.</p>
 <p>Mas um outro exemplo, agora muito menos sutil e muito mais complexo e elaborado, é o segmento do jogo Ori and the Blind Forest conhecido como Guinso Tree Water Escape, ou o escape de água da Guinso Tree(o primeiro mapa do jogo). Confira abaixo o segmento em questão.</p>
 <figure class="post__video"><iframe loading="lazy" width="696" height="390" style="width: 696px; height: 390px;" src="https://www.youtube.com/embed/DV96djbLi3M" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
